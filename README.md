@@ -13,7 +13,7 @@ Allows you to send, recive and view notification through firebase and php <br/>
 
 # TO-DO
 Improve the UI <br/>
-General QOL changes
+General QOL change
 
 # Acknowledgements
 
